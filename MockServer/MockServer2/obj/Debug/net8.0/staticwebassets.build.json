@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pd53fbXTN8Zu0S+yFOlTShlF0NaXWl0qudPWmgaOv4Y=",
+  "Source": "MockServer2",
+  "BasePath": "_content/MockServer2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

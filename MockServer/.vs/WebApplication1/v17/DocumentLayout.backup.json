@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D5727-1665-4978-BFD2-A83A2E718C23}|WebApplication1\\MockServer.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD8D5727-1665-4978-BFD2-A83A2E718C23}|WebApplication1\\MockServer.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D5727-1665-4978-BFD2-A83A2E718C23}|WebApplication1\\MockServer.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\webapplication1\\mockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8D5727-1665-4978-BFD2-A83A2E718C23}|WebApplication1\\MockServer.csproj|solutionrelative:webapplication1\\mockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24325CCC-380D-455C-B843-F08DBAF36FA9}|MockServer2\\MockServer2.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\mockserver2\\mockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24325CCC-380D-455C-B843-F08DBAF36FA9}|MockServer2\\MockServer2.csproj|solutionrelative:mockserver2\\mockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F9F21-0646-4B7D-AE7F-D72A2B25C5C4}|MockServer3\\MockServer3.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\mockserver3\\mockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731F9F21-0646-4B7D-AE7F-D72A2B25C5C4}|MockServer3\\MockServer3.csproj|solutionrelative:mockserver3\\mockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F9F21-0646-4B7D-AE7F-D72A2B25C5C4}|MockServer3\\MockServer3.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\mockserver3\\slowperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731F9F21-0646-4B7D-AE7F-D72A2B25C5C4}|MockServer3\\MockServer3.csproj|solutionrelative:mockserver3\\slowperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24325CCC-380D-455C-B843-F08DBAF36FA9}|MockServer2\\MockServer2.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\mockserver2\\slowperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24325CCC-380D-455C-B843-F08DBAF36FA9}|MockServer2\\MockServer2.csproj|solutionrelative:mockserver2\\slowperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F9F21-0646-4B7D-AE7F-D72A2B25C5C4}|MockServer3\\MockServer3.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\mockserver3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731F9F21-0646-4B7D-AE7F-D72A2B25C5C4}|MockServer3\\MockServer3.csproj|solutionrelative:mockserver3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24325CCC-380D-455C-B843-F08DBAF36FA9}|MockServer2\\MockServer2.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\mockserver2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24325CCC-380D-455C-B843-F08DBAF36FA9}|MockServer2\\MockServer2.csproj|solutionrelative:mockserver2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ionut\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D5727-1665-4978-BFD2-A83A2E718C23}|WebApplication1\\MockServer.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8D5727-1665-4978-BFD2-A83A2E718C23}|WebApplication1\\MockServer.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D5727-1665-4978-BFD2-A83A2E718C23}|WebApplication1\\MockServer.csproj|c:\\users\\ionut\\source\\repos\\webapplication1\\webapplication1\\slowperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8D5727-1665-4978-BFD2-A83A2E718C23}|WebApplication1\\MockServer.csproj|solutionrelative:webapplication1\\slowperiodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T12:38:24.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MockController.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer2\\MockController.cs",
+              "RelativeDocumentMoniker": "MockServer2\\MockController.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer2\\MockController.cs*",
+              "RelativeToolTip": "MockServer2\\MockController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:21:32.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockController.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer3\\MockController.cs",
+              "RelativeDocumentMoniker": "MockServer3\\MockController.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer3\\MockController.cs*",
+              "RelativeToolTip": "MockServer3\\MockController.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:25:37.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlowPeriodService.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer3\\SlowPeriodService.cs",
+              "RelativeDocumentMoniker": "MockServer3\\SlowPeriodService.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer3\\SlowPeriodService.cs",
+              "RelativeToolTip": "MockServer3\\SlowPeriodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:22:30.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer3\\Program.cs",
+              "RelativeDocumentMoniker": "MockServer3\\Program.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer3\\Program.cs",
+              "RelativeToolTip": "MockServer3\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:17:48.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\ionut\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\ionut\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAwwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-09T12:12:53.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer2\\Program.cs",
+              "RelativeDocumentMoniker": "MockServer2\\Program.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer2\\Program.cs",
+              "RelativeToolTip": "MockServer2\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:11:29.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockController.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\WebApplication1\\MockController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\MockController.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\WebApplication1\\MockController.cs*",
+              "RelativeToolTip": "WebApplication1\\MockController.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:14:41.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlowPeriodService.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer2\\SlowPeriodService.cs",
+              "RelativeDocumentMoniker": "MockServer2\\SlowPeriodService.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\MockServer2\\SlowPeriodService.cs",
+              "RelativeToolTip": "MockServer2\\SlowPeriodService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:21:34.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SlowPeriodService.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\WebApplication1\\SlowPeriodService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\SlowPeriodService.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\WebApplication1\\SlowPeriodService.cs",
+              "RelativeToolTip": "WebApplication1\\SlowPeriodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:19:58.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:27:24.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

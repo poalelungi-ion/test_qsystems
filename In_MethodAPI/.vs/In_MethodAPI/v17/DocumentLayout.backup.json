@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ionut\\source\\repos\\In_MethodAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66464F03-2808-4D77-82EC-67381470CF1C}|In_MethodAPI\\In_MethodAPI.csproj|c:\\users\\ionut\\source\\repos\\in_methodapi\\in_methodapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66464F03-2808-4D77-82EC-67381470CF1C}|In_MethodAPI\\In_MethodAPI.csproj|solutionrelative:in_methodapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66464F03-2808-4D77-82EC-67381470CF1C}|In_MethodAPI\\In_MethodAPI.csproj|c:\\users\\ionut\\source\\repos\\in_methodapi\\in_methodapi\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66464F03-2808-4D77-82EC-67381470CF1C}|In_MethodAPI\\In_MethodAPI.csproj|solutionrelative:in_methodapi\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66464F03-2808-4D77-82EC-67381470CF1C}|In_MethodAPI\\In_MethodAPI.csproj|c:\\users\\ionut\\source\\repos\\in_methodapi\\in_methodapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66464F03-2808-4D77-82EC-67381470CF1C}|In_MethodAPI\\In_MethodAPI.csproj|solutionrelative:in_methodapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\In_MethodAPI\\In_MethodAPI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "In_MethodAPI\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\In_MethodAPI\\In_MethodAPI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "In_MethodAPI\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:55:04.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\In_MethodAPI\\In_MethodAPI\\Program.cs",
+              "RelativeDocumentMoniker": "In_MethodAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\In_MethodAPI\\In_MethodAPI\\Program.cs*",
+              "RelativeToolTip": "In_MethodAPI\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:54:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\ionut\\source\\repos\\In_MethodAPI\\In_MethodAPI\\ValuesController.cs",
+              "RelativeDocumentMoniker": "In_MethodAPI\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\ionut\\source\\repos\\In_MethodAPI\\In_MethodAPI\\ValuesController.cs",
+              "RelativeToolTip": "In_MethodAPI\\ValuesController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:51:49.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

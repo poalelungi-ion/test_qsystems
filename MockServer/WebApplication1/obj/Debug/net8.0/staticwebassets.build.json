@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "64lFpIL0a+8S0YpbYSSFF7UxzSCD+s1nOJScMF0LZDU=",
+  "Source": "MockServer",
+  "BasePath": "_content/MockServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

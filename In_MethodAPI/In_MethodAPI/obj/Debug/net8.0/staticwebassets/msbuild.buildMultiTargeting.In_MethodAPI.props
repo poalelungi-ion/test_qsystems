@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\In_MethodAPI.props" />
+</Project>
