@@ -1,4 +1,4 @@
-Sure! Below is a README template that summarizes the project, installation steps, usage, and details of the API endpoints and functionalities based on the code you provided.
+This is a README markdown file that summarizes the project, installation steps, usage, and details of the API endpoints and functionalities.
 
 ---
 
